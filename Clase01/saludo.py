@@ -1,0 +1,1 @@
+print(f'Hola, {input("¿Cuál es tu nombre? ")}') 
